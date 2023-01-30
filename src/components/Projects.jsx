@@ -1,13 +1,40 @@
 const Projects = () => {
   return (
     <section className="card">
-      <h2>My Projects:</h2>
+      <h1 id="sub-header">My Projects:</h1>
       <ul className="list">
         <li id="project">
-          My full stack application: https://ncgamereviews-eddyking.netlify.app
+          My full stack application:{"  "}
+          <p>
+            <a
+              href="https://ncgamereviews-eddyking.netlify.app"
+              id="project-link"
+            >
+              NC Game Reviews
+            </a>
+          </p>
         </li>
         <li id="project">
-          Walkerr: https://northcoders.com/projects/jan-2023/walkerrr
+          Northcoders Group Project:{"  "}
+          <p>
+            <a
+              href="https://northcoders.com/projects/jan-2023/walkerrr"
+              id="project-link"
+            >
+              Walkerrr
+            </a>
+          </p>
+        </li>
+        <li id="project">
+          Hangman project:{"  "}
+          <p>
+            <a
+              href="https://the-adventures-of-hangman.netlify.app/"
+              id="project-link"
+            >
+              Hangman
+            </a>
+          </p>
         </li>
       </ul>
     </section>

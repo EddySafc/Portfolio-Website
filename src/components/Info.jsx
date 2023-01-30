@@ -2,7 +2,7 @@ const Info = () => {
   return (
     <section className="info-and-pic">
       <div className="card">
-        <h2>About me:</h2>
+        <h1 id="sub-header">About me:</h1>
         <p className="info">
           Im Eddy, a junior software developer based in County Durham. I have
           recently completed the Northcoders software development bootcamp, here
