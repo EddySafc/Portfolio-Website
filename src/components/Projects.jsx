@@ -36,6 +36,14 @@ const Projects = () => {
             </a>
           </p>
         </li>
+        <li id="project">
+          recipe project:{"  "}
+          <p>
+            <a href="https://eddys-recipes.netlify.app/" id="project-link">
+              Eddys Recipes
+            </a>
+          </p>
+        </li>
       </ul>
     </section>
   );
