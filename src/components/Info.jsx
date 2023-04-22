@@ -7,8 +7,9 @@ const Info = () => {
           Im Eddy, a junior software developer based in County Durham. I have
           recently completed the Northcoders software development bootcamp, here
           I learnt the fundamentals of javascript, front-end and back-end
-          development. At the end of the course of knowledge was put together to
-          create a full stack application.
+          development; which was then put together to create a full stack
+          application. Since graduating I have developed my skills and branched
+          out into learning new tech.
         </p>
         <img src="picture.jpg" alt="na" className="profile-picture"></img>
       </div>
