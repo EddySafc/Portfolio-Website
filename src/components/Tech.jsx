@@ -32,6 +32,10 @@ const Tech = () => {
           <p>React</p>
         </li>
         <li id="tech">
+          <img src="reactnative.png" alt="na" className="tech-pic"></img>
+          <p>React Native</p>
+        </li>
+        <li id="tech">
           <img src="flutter.png" alt="na" className="tech-pic"></img>
           <p>Flutter</p>
         </li>

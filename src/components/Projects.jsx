@@ -45,26 +45,35 @@ const Projects = () => {
           </p>
         </li>
         <li id="project">
-          recipe project:{"  "}
+          To Do List Project:{"  "}
           <p>
-            <a href="https://eddys-recipes.netlify.app/" id="project-link">
-              Eddys Recipes
+            <a
+              href="https://github.com/EddySafc/to-do-list-fe"
+              id="project-link"
+            >
+              To Do List
             </a>
           </p>
         </li>
         <li id="project">
-          recipe project:{"  "}
+          Team Picker Project:{"  "}
           <p>
-            <a href="https://eddys-recipes.netlify.app/" id="project-link">
-              Eddys Recipes
+            <a
+              href="https://github.com/EddySafc/Team-Pickle-fe"
+              id="project-link"
+            >
+              Team Pickle
             </a>
           </p>
         </li>
         <li id="project">
-          recipe project:{"  "}
+          Login Game Project:{"  "}
           <p>
-            <a href="https://eddys-recipes.netlify.app/" id="project-link">
-              Eddys Recipes
+            <a
+              href="https://github.com/EddySafc/Native-Game-Firebase"
+              id="project-link"
+            >
+              Firebase Game
             </a>
           </p>
         </li>
