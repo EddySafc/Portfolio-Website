@@ -55,6 +55,10 @@ const Tech = () => {
           <img src="GitHub.png" alt="na" className="tech-pic"></img>
           <p>GitHub</p>
         </li>
+        <li id="tech">
+          <img src="FireBase.png" alt="na" className="tech-pic"></img>
+          <p>FireBase</p>
+        </li>
       </ul>
     </section>
   );

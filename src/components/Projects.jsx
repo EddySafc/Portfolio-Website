@@ -4,18 +4,25 @@ const Projects = () => {
       <h1 id="sub-header">My Projects:</h1>
       <ul className="list">
         <li id="project">
-          My full stack application:{"  "}
+          Full Stack Game Reviews Project:{"  "}
           <p>
             <a
               href="https://ncgamereviews-eddyking.netlify.app"
               id="project-link"
             >
-              NC Game Reviews
+              NC Game Reviews FE
+            </a>
+            <p></p>
+            <a
+              href="https://github.com/EddySafc/Portfolio-project"
+              id="project-link"
+            >
+              NC Game Reviews BE
             </a>
           </p>
         </li>
         <li id="project">
-          Northcoders Group Project:{"  "}
+          Northcoders Group Project (Flutter):{"  "}
           <p>
             <a
               href="https://northcoders.com/projects/jan-2023/walkerrr"
@@ -26,7 +33,7 @@ const Projects = () => {
           </p>
         </li>
         <li id="project">
-          Hangman project:{"  "}
+          React Hangman project:{"  "}
           <p>
             <a
               href="https://the-adventures-of-hangman.netlify.app/"
@@ -37,15 +44,15 @@ const Projects = () => {
           </p>
         </li>
         <li id="project">
-          recipe project:{"  "}
+          Full Stack Recipe Project:{"  "}
           <p>
             <a href="https://eddys-recipes.netlify.app/" id="project-link">
-              Eddys Recipes
+              Eddys Rad Recipes
             </a>
           </p>
         </li>
         <li id="project">
-          To Do List Project:{"  "}
+          Full Stack To Do List Project:{"  "}
           <p>
             <a
               href="https://github.com/EddySafc/to-do-list-fe"
@@ -56,7 +63,7 @@ const Projects = () => {
           </p>
         </li>
         <li id="project">
-          Team Picker Project:{"  "}
+          React Native Team Picker Project:{"  "}
           <p>
             <a
               href="https://github.com/EddySafc/Team-Pickle-fe"
@@ -67,13 +74,24 @@ const Projects = () => {
           </p>
         </li>
         <li id="project">
-          Login Game Project:{"  "}
+          Full Stack Login Game Project:{"  "}
           <p>
             <a
               href="https://github.com/EddySafc/Native-Game-Firebase"
               id="project-link"
             >
               Firebase Game
+            </a>
+          </p>
+        </li>
+        <li id="project">
+          Multi Use PSQL BE:{"  "}
+          <p>
+            <a
+              href="https://github.com/EddySafc/MultiUse-PSQL-be"
+              id="project-link"
+            >
+              Multi Use BE
             </a>
           </p>
         </li>
