@@ -14,7 +14,7 @@ const Projects = () => {
             </a>
             <p></p>
             <a
-              href="https://github.com/EddySafc/Portfolio-project"
+              href="https://github.com/EddySafc/Eddy-NC-Game-Reviews-BE"
               id="project-link"
             >
               NC Game Reviews BE
