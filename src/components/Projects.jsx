@@ -55,7 +55,7 @@ const Projects = () => {
           Full Stack To Do List Project:{"  "}
           <p>
             <a
-              href="https://github.com/EddySafc/to-do-list-fe"
+              href="https://github.com/EddySafc/fe-react-native-todo-list"
               id="project-link"
             >
               To Do List
