@@ -4,7 +4,7 @@ const Info = () => {
       <div className="card">
         <h1 id="sub-header">About me:</h1>
         <p className="info">
-          Im Eddy, a junior software developer based in County Durham. I have
+          Im Eddy, a Junior Software Developer based in County Durham. I have
           recently completed the Northcoders software development bootcamp, here
           I learnt the fundamentals of javascript, front-end and back-end
           development; which was then put together to create a full stack
